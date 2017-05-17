@@ -39,10 +39,10 @@
   
   **eg 3)** --> result3 = multiply([6 2 1 ; 9 0 1 ; -5 4 1] , [5 2 -7 0 5 ; 23 8 99 -1 5])
   
-                                                             `!--error 999 
-multiply: Wrong size for input arguments: No. of column in 1st matrix should be equal to no. of row of 2nd matrix.`
+                                                             !--error 999 
+multiply: Wrong size for input arguments: No. of column in 1st matrix should be equal to no. of row of 2nd matrix.
  
  **eg 4)**-->result4 = multiply([6 2 ],[%t %t])
- 
-                             `!--error 999 
-multiply: Wrong type for input argument #2: A real matrix expected.`
+
+                             !--error 999 
+multiply: Wrong type for input argument #2: A real matrix expected.
