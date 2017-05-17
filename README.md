@@ -20,7 +20,7 @@
   Now perform the multiplication using the function multiply(mat1, mat2)   
   
   
-  **eg 1)**-->result = multiply([1 2 ; 3 4],[1 2; 3 4])
+  **eg 1)**-->result = multiply([1 2 ; 3 4] , [1 2; 3 4])
   
    result  =
  
