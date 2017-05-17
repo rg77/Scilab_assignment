@@ -4,7 +4,7 @@
    the dimensions are correct for matrix multiplication, computes the product and displays the product on Scilab console.
    
  
-**Sol**Make sure that the current directory for Scilab is the one in which you have installed Scilab.
+**Sol:** Make sure that the current directory for Scilab is the one in which you have installed Scilab.
   Copy the file `"matrixMultiplication.c"` in this directory.
   Now execute the following command from the Scilab console:
   
